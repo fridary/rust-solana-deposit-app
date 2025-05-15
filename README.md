@@ -1,6 +1,5 @@
 ## Структура проекта
 - Anchor.toml - файл конфигурации проекта
-- programs/solana_deposit_app/src/lib.rs - смарт-контракт
 - programs/solana_deposit_app/src/lib.rs - файл с кодом смарт-контракта
 - programs/solana_deposit_app/Cargo.toml - конфигурация для Rust
 - app/index.ts - клиентское приложение
